@@ -7,7 +7,7 @@
 #   square(3)
 #   # => 9
 #
-# Returns the added integer.
+# Returns the squared integer.
 def square(num)
     return num ** 2
 end
