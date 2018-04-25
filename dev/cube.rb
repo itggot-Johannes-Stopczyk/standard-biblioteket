@@ -7,7 +7,7 @@
 #   cube(3)
 #   # => 27
 #
-# Returns the squared integer.
+# Returns the cubed integer.
 def cube(num)
     return num ** 3
 end
