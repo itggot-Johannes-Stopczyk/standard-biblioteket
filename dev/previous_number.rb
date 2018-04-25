@@ -7,7 +7,7 @@
 #   previous_number(4)
 #   # => 3
 #
-# Returns the added integer.
+# Returns the subtracted integer.
 def previous_number(num)
     return num + - 1
 end
