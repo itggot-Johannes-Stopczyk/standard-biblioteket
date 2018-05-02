@@ -1,10 +1,10 @@
-# Public: Checks if the number is negative.
+# Public: Checks if number is even
 #
-# num - The integer number to check if negative.
+# num - The integer number to check if even.
 #
 # Examples
 #
-#   square(-3)
+#   square(4)
 #   # => true
 #
 # Returns if the value is even or not.
