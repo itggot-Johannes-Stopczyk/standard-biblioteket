@@ -9,5 +9,5 @@
 #
 # Returns the subtracted integer.
 def previous_number(num)
-    return num + - 1
+    return num - 1
 end
