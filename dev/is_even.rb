@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   square(4)
+#   is_even(4)
 #   # => true
 #
 # Returns if the value is even or not.

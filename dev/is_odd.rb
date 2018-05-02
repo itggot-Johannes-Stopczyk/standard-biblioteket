@@ -4,7 +4,7 @@
 #
 # Examples
 #
-#   square(3)
+#   is_odd(3)
 #   # => true
 #
 # Returns if the value is odd or not.
