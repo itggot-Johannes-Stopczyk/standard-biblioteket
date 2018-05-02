@@ -14,7 +14,7 @@
 #
 # Returns if the integer number is between the other two integers
 def is_between(num,first,second)
-    if num >= from && num <= to || num <= from && num >= to
+    if num >= first && num <= second || num <= first && num >= second
         return true
     end
     return false
