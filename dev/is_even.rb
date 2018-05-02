@@ -8,6 +8,7 @@
 #   # => true
 #
 # Returns if the value is even or not.
+
 def is_negative(num)
     return true if num % 2
     return false
